@@ -7,6 +7,6 @@ variable "environment" {
 }
 
 variable "registry" {
-  default = "fisz.dev"
+  default = "239436151600.dkr.ecr.us-west-2.amazonaws.com"
   type    = string
 }
